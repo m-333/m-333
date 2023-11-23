@@ -1,7 +1,7 @@
 ### Hi 👋 My name is Melek
 ======================
 
-ios developer
+Mobil developer
 -------------
 
 I worked in the Web development before. I am currently working in the mobile field.
